@@ -8028,6 +8028,7 @@ data = {
  '86155':{'en': 'China Unicom', 'zh': u('\u4e2d\u56fd\u8054\u901a'), 'zh_Hant': u('\u4e2d\u570b\u806f\u901a')},
  '86156':{'en': 'China Unicom', 'zh': u('\u4e2d\u56fd\u8054\u901a'), 'zh_Hant': u('\u4e2d\u570b\u806f\u901a')},
  '86166':{'en': 'China Unicom', 'zh': u('\u4e2d\u56fd\u8054\u901a'), 'zh_Hant': u('\u4e2d\u570b\u806f\u901a')},
+ '86167':{'en': 'China Unicom', 'zh': u('\u4e2d\u56fd\u8054\u901a'), 'zh_Hant': u('\u4e2d\u570b\u806f\u901a')},
  '861700':{'en': 'China Telecom', 'zh': u('\u4e2d\u56fd\u7535\u4fe1'), 'zh_Hant': u('\u4e2d\u570b\u96fb\u4fe1')},
  '861701':{'en': 'China Telecom', 'zh': u('\u4e2d\u56fd\u7535\u4fe1'), 'zh_Hant': u('\u4e2d\u570b\u96fb\u4fe1')},
  '861702':{'en': 'China Telecom', 'zh': u('\u4e2d\u56fd\u7535\u4fe1'), 'zh_Hant': u('\u4e2d\u570b\u96fb\u4fe1')},
